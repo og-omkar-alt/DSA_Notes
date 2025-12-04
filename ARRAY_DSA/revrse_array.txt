@@ -1,0 +1,1 @@
+swap(arr_name[i],arr_name[j])
